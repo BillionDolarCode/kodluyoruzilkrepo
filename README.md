@@ -2,6 +2,10 @@
 
 Bu repo [Kodluyoruz](www.kodluyoruz.com) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet de index.html barındırıyor.
 
+## MARKDOWN RESIM
+
+![MARKDOWN](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/markdown.png)
+
 ## Installation
 
 Öncelikle projeyi clonelayın.
