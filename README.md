@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](www.kodluyoruz.com) Front-End Eğitiminde oluşturduğumuz 
 
 ## MARKDOWN RESIM
 
-![MARKDOWN](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/markdown.png)
+![MARKDOWN](https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg)
 
 ## Installation
 
